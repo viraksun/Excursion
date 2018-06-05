@@ -5,3 +5,25 @@ h1 {
   color: white;
   text-align: center;
 }
+.link {
+  color: Aquamarine;
+  font-size: 16px;
+}
+html {
+  background: Black;
+  text-align: center;
+}
+p {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+h2 {
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+#Mark {
+  text-align: right;
+  color: gray;
+}
